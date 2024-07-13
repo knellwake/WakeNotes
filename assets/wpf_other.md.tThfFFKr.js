@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.ptRit3_N.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"wpf/other.md","filePath":"wpf/other.md"}'),o={name:"wpf/other.md"};function a(s,c,n,p,f,_){return r(),t("div")}const m=e(o,[["render",a]]);export{i as __pageData,m as default};

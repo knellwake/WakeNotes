@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.B08LpBBs.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"course/back-end.md","filePath":"course/back-end.md"}'),c={name:"course/back-end.md"};function r(o,n,s,d,p,_){return a(),t("div")}const f=e(c,[["render",r]]);export{m as __pageData,f as default};

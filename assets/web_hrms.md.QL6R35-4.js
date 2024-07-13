@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.ptRit3_N.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/hrms.md","filePath":"web/hrms.md"}'),a={name:"web/hrms.md"};function s(o,c,n,m,p,_){return r(),t("div")}const f=e(a,[["render",s]]);export{i as __pageData,f as default};

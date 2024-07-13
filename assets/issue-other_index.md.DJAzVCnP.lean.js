@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.ptRit3_N.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"issue-other/index.md","filePath":"issue-other/index.md"}'),r={name:"issue-other/index.md"};function a(o,n,i,c,d,p){return s(),t("div")}const f=e(r,[["render",a]]);export{m as __pageData,f as default};

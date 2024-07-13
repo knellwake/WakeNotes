@@ -1,1 +1,0 @@
-import{_ as t,c as e,o}from"./chunks/framework.B08LpBBs.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"notes/dotnet.md","filePath":"notes/dotnet.md"}'),n={name:"notes/dotnet.md"};function a(s,r,c,d,p,_){return o(),e("div")}const f=t(n,[["render",a]]);export{m as __pageData,f as default};
