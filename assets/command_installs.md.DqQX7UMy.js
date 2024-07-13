@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as e}from"./chunks/framework.B08LpBBs.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"command/installs.md","filePath":"command/installs.md"}'),s={name:"command/installs.md"};function n(o,c,r,l,m,i){return e(),a("div")}const _=t(s,[["render",n]]);export{p as __pageData,_ as default};

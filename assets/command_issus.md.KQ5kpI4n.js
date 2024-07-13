@@ -1,1 +1,0 @@
-import{_ as s,c as e,o as t}from"./chunks/framework.B08LpBBs.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"command/issus.md","filePath":"command/issus.md"}'),a={name:"command/issus.md"};function o(c,n,r,m,i,d){return t(),e("div")}const f=s(a,[["render",o]]);export{_ as __pageData,f as default};
