@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.Cf3rybCi.js";const g=JSON.parse('{"title":"测试文档","description":"","frontmatter":{},"headers":[],"relativePath":"projects-doc.md","filePath":"projects-doc.md"}'),t={name:"projects-doc.md"},l=n("",19),e=[l];function p(h,k,r,o,d,c){return a(),i("div",null,e)}const u=s(t,[["render",p]]);export{g as __pageData,u as default};
