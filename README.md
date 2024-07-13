@@ -1,2 +1,0 @@
-# WakeNotes
-Trial And Error
