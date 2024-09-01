@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.ptRit3_N.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"game/other.md","filePath":"game/other.md"}'),r={name:"game/other.md"};function o(s,c,n,m,p,_){return a(),t("div")}const f=e(r,[["render",o]]);export{i as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as t}from"./chunks/framework.C1_Uvz0J.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"issue-web/bugs.md","filePath":"issue-web/bugs.md"}'),a={name:"issue-web/bugs.md"};function r(o,c,n,i,p,u){return t(),s("div")}const m=e(a,[["render",r]]);export{d as __pageData,m as default};

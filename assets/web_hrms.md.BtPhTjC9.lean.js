@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a4 as r}from"./chunks/framework.C1_Uvz0J.js";const b=JSON.parse('{"title":"通用后台管理系统-开发文档","description":"","frontmatter":{},"headers":[],"relativePath":"web/hrms.md","filePath":"web/hrms.md"}'),o={name:"web/hrms.md"},h=r("",12),i=[h];function l(n,s,d,c,_,u){return t(),e("div",null,i)}const p=a(o,[["render",l]]);export{b as __pageData,p as default};

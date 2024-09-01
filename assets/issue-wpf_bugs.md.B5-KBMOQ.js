@@ -1,1 +1,0 @@
-import{_ as e,c as s,o as t}from"./chunks/framework.ptRit3_N.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"issue-wpf/bugs.md","filePath":"issue-wpf/bugs.md"}'),a={name:"issue-wpf/bugs.md"};function r(o,c,n,p,i,f){return t(),s("div")}const d=e(a,[["render",r]]);export{_ as __pageData,d as default};
